@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.o"  -o Codeforces 
