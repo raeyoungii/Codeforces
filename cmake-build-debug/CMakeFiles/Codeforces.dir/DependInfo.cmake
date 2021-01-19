@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/raeyoungkim/CLionProjects/Codeforces/Educational Codeforces Round 102 (Rated for Div. 2)/C. No More Inversions.cpp" "/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.o"
+  "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round #696 (Div. 2)/A. Puzzle From the Future.cpp" "/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

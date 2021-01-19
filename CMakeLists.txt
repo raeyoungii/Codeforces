@@ -3,4 +3,4 @@ project(Codeforces)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Codeforces "Educational Codeforces Round 102 (Rated for Div. 2)/C. No More Inversions.cpp")
+add_executable(Codeforces "Codeforces Round #696 (Div. 2)/A. Puzzle From the Future.cpp")

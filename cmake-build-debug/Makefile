@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.o: Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.o
+Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.o: Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o
 
-.PHONY : Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.o
+.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.o
 
 # target to build an object file
-Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.o"
-.PHONY : Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.o
+Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o"
+.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o
 
-Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.i: Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.i
+Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.i: Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i
 
-.PHONY : Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.i
+.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.i
 
 # target to preprocess a source file
-Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.i"
-.PHONY : Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.i
+Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i"
+.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i
 
-Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.s: Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.s
+Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.s: Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s
 
-.PHONY : Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.s
+.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.s
 
 # target to generate assembly for a file
-Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.s"
-.PHONY : Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.s
+Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s"
+.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.o"
-	@echo "... Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.i"
-	@echo "... Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.s"
+	@echo "... Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.o"
+	@echo "... Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.i"
+	@echo "... Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.s"
 .PHONY : help
 
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_102_(Rated_for_Div._2)/C._No_More_Inversions.cpp.o"
+  "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o"
   "Codeforces"
   "Codeforces.pdb"
 )
