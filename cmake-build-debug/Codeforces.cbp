@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round #696 (Div. 2)/A. Puzzle From the Future.cpp">
+		<Unit filename="/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 696 (Div. 2)/C. Array Destruction.cpp">
 			<Option target="Codeforces"/>
 		</Unit>
 		<Unit filename="/Users/raeyoungkim/CLionProjects/Codeforces/CMakeLists.txt">

@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o"  -o Codeforces 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  "CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o"  -o Codeforces 

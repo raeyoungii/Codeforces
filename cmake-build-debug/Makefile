@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.o: Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o
+Codeforces_Round_696_(Div._2)/C._Array_Destruction.o: Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o
 
-.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.o
+.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.o
 
 # target to build an object file
-Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o"
-.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o
+Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o"
+.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o
 
-Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.i: Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i
+Codeforces_Round_696_(Div._2)/C._Array_Destruction.i: Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i
 
-.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.i
+.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.i
 
 # target to preprocess a source file
-Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i"
-.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i
+Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i"
+.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i
 
-Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.s: Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s
+Codeforces_Round_696_(Div._2)/C._Array_Destruction.s: Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s
 
-.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.s
+.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.s
 
 # target to generate assembly for a file
-Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s"
-.PHONY : Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s
+Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s"
+.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.o"
-	@echo "... Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.i"
-	@echo "... Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.s"
+	@echo "... Codeforces_Round_696_(Div._2)/C._Array_Destruction.o"
+	@echo "... Codeforces_Round_696_(Div._2)/C._Array_Destruction.i"
+	@echo "... Codeforces_Round_696_(Div._2)/C._Array_Destruction.s"
 .PHONY : help
 
 

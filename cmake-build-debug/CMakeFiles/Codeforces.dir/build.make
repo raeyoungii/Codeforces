@@ -77,27 +77,27 @@ include CMakeFiles/Codeforces.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Codeforces.dir/flags.make
 
-CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o: CMakeFiles/Codeforces.dir/flags.make
-CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o: ../Codeforces\ Round\ #696\ (Div.\ 2)/A.\ Puzzle\ From\ the\ Future.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o" -c "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round #696 (Div. 2)/A. Puzzle From the Future.cpp"
+CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o: CMakeFiles/Codeforces.dir/flags.make
+CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o: ../Codeforces\ Round\ 696\ (Div.\ 2)/C.\ Array\ Destruction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o" -c "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 696 (Div. 2)/C. Array Destruction.cpp"
 
-CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round #696 (Div. 2)/A. Puzzle From the Future.cpp" > "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.i"
+CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 696 (Div. 2)/C. Array Destruction.cpp" > "CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i"
 
-CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round #696 (Div. 2)/A. Puzzle From the Future.cpp" -o "CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.s"
+CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 696 (Div. 2)/C. Array Destruction.cpp" -o "CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s"
 
 # Object files for target Codeforces
 Codeforces_OBJECTS = \
-"CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o"
+"CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o"
 
 # External object files for target Codeforces
 Codeforces_EXTERNAL_OBJECTS =
 
-Codeforces: CMakeFiles/Codeforces.dir/Codeforces_Round_#696_(Div._2)/A._Puzzle_From_the_Future.cpp.o
+Codeforces: CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o
 Codeforces: CMakeFiles/Codeforces.dir/build.make
 Codeforces: CMakeFiles/Codeforces.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Codeforces"
