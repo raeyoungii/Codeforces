@@ -10,7 +10,7 @@ sort(a.begin(), a.end(), greater<>()); // 내림차순 정렬
 sort(v.begin(), v.end(), compare); // 사용자 정의 정렬
 ```
 
-###순열
+### 순열
 ```c++
 int main() {
     int n; cin >> n;
@@ -26,7 +26,7 @@ int main() {
     return 0;
 }
 ```
-###조합
+### 조합
 ```c++
 int main() {
     int n, k; cin >> n >> k;
