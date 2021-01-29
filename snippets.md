@@ -41,3 +41,12 @@ int main() {
     return 0;
 }
 ```
+### 경계값
+```c++
+int s;
+if (n % k == 0) s = n / k;
+else s = n / k + 1;
+```
+```c++
+int s = (n + k - 1) / k;
+```

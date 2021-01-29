@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Codeforces_Round_696_(Div._2)/C._Array_Destruction.o: Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o
+Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.o: Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.o
 
-.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.o
+.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.o
 
 # target to build an object file
-Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o"
-.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.o
+Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.o"
+.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.o
 
-Codeforces_Round_696_(Div._2)/C._Array_Destruction.i: Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i
+Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.i: Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.i
 
-.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.i
+.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.i
 
 # target to preprocess a source file
-Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i"
-.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.i
+Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.i"
+.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.i
 
-Codeforces_Round_696_(Div._2)/C._Array_Destruction.s: Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s
+Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.s: Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.s
 
-.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.s
+.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.s
 
 # target to generate assembly for a file
-Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s"
-.PHONY : Codeforces_Round_696_(Div._2)/C._Array_Destruction.cpp.s
+Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.s"
+.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Codeforces_Round_696_(Div._2)/C._Array_Destruction.o"
-	@echo "... Codeforces_Round_696_(Div._2)/C._Array_Destruction.i"
-	@echo "... Codeforces_Round_696_(Div._2)/C._Array_Destruction.s"
+	@echo "... Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.o"
+	@echo "... Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.i"
+	@echo "... Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.s"
 .PHONY : help
 
 
