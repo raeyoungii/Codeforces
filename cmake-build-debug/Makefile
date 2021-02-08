@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.o: Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.o
+Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.o: Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o
 
-.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.o
+.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.o
 
 # target to build an object file
-Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.o"
-.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.o
+Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o"
+.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o
 
-Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.i: Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.i
+Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.i: Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i
 
-.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.i
+.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.i
 
 # target to preprocess a source file
-Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.i"
-.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.i
+Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i"
+.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i
 
-Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.s: Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.s
+Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.s: Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s
 
-.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.s
+.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.s
 
 # target to generate assembly for a file
-Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.s"
-.PHONY : Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.s
+Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s"
+.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.o"
-	@echo "... Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.i"
-	@echo "... Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.s"
+	@echo "... Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.o"
+	@echo "... Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.i"
+	@echo "... Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.s"
 .PHONY : help
 
 

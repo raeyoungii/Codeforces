@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  "CMakeFiles/Codeforces.dir/Educational_Codeforces_Round_103_(Rated_for_Div._2)_/B._Inflation.cpp.o"  -o Codeforces 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o"  -o Codeforces 

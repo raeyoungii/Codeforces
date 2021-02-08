@@ -3,4 +3,4 @@ project(Codeforces)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Codeforces "Educational Codeforces Round 103 (Rated for Div. 2) /B. Inflation.cpp")
+add_executable(Codeforces "Codeforces Round 700 (Div. 2)/C. Searching Local Minimum.cpp")

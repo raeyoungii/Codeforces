@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/raeyoungkim/CLionProjects/Codeforces/Educational Codeforces Round 103 (Rated for Div. 2) /B. Inflation.cpp">
+		<Unit filename="/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 700 (Div. 2)/C. Searching Local Minimum.cpp">
 			<Option target="Codeforces"/>
 		</Unit>
 		<Unit filename="/Users/raeyoungkim/CLionProjects/Codeforces/CMakeLists.txt">
