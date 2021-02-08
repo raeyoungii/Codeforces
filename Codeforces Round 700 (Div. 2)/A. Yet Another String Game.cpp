@@ -5,16 +5,14 @@ typedef long long ll;
 
 void solve() {
     string s; cin >> s;
-    bool flag = false;
-    for (char i : s) {
-        if (!flag) {
-            if (i == 'a') cout << 'b';
+    for (int i = 0; i < s.length(); i++) {
+        if (i % 2 == 0) {
+            if (s[i] == 'a') cout << 'b';
             else cout << 'a';
         } else {
-            if (i == 'z') cout << 'y';
+            if (s[i] == 'z') cout << 'y';
             else cout << 'z';
         }
-        flag = !flag;
     }
     cout << "\n";
 }

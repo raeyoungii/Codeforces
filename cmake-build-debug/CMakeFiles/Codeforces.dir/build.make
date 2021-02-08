@@ -77,27 +77,27 @@ include CMakeFiles/Codeforces.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Codeforces.dir/flags.make
 
-CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o: CMakeFiles/Codeforces.dir/flags.make
-CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o: ../Codeforces\ Round\ 700\ (Div.\ 2)/C.\ Searching\ Local\ Minimum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o" -c "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 700 (Div. 2)/C. Searching Local Minimum.cpp"
+CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o: CMakeFiles/Codeforces.dir/flags.make
+CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o: ../Codeforces\ Round\ 700\ (Div.\ 2)/A.\ Yet\ Another\ String\ Game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o" -c "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 700 (Div. 2)/A. Yet Another String Game.cpp"
 
-CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 700 (Div. 2)/C. Searching Local Minimum.cpp" > "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i"
+CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 700 (Div. 2)/A. Yet Another String Game.cpp" > "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i"
 
-CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 700 (Div. 2)/C. Searching Local Minimum.cpp" -o "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s"
+CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 700 (Div. 2)/A. Yet Another String Game.cpp" -o "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s"
 
 # Object files for target Codeforces
 Codeforces_OBJECTS = \
-"CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o"
+"CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o"
 
 # External object files for target Codeforces
 Codeforces_EXTERNAL_OBJECTS =
 
-Codeforces: CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o
+Codeforces: CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o
 Codeforces: CMakeFiles/Codeforces.dir/build.make
 Codeforces: CMakeFiles/Codeforces.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Codeforces"

@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.o: Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o
+Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.o: Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o
 
-.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.o
+.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.o
 
 # target to build an object file
-Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o"
-.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.o
+Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o"
+.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o
 
-Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.i: Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i
+Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.i: Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i
 
-.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.i
+.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.i
 
 # target to preprocess a source file
-Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i"
-.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.i
+Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i"
+.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i
 
-Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.s: Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s
+Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.s: Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s
 
-.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.s
+.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.s
 
 # target to generate assembly for a file
-Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s"
-.PHONY : Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.cpp.s
+Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s"
+.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.o"
-	@echo "... Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.i"
-	@echo "... Codeforces_Round_700_(Div._2)/C._Searching_Local_Minimum.s"
+	@echo "... Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.o"
+	@echo "... Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.i"
+	@echo "... Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.s"
 .PHONY : help
 
 
