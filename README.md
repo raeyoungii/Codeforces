@@ -47,20 +47,32 @@ int main() {
     return 0;
 }
 ```
+
 ### 벡터의 최대, 최소값
 ```c++
 int min = *min_element(v.begin(), v.end());
 int max = *max_element(v.begin(), v.end());
 ```
+
 ### 나눗셈 올림 (ceil)
 ```c++
-int s;
 if (n % k == 0) s = n / k;
 else s = n / k + 1;
 ```
 ```c++
-int s = (n + k - 1) / k;
+s = (n + k - 1) / k;
 ```
+
+### 나머지 올림
+```c++
+if (n % k == 0) s = k;
+else s = n % k;
+```
+```c++
+s = (n - 1) % k + 1; 
+```
+
+
 ### 에라토스테네스의 체
 ```c++
 vector<int> v;
@@ -80,4 +92,13 @@ void eratos(int n) {
         if (sieve[i]) v.push_back(i);
     }
 }
+```
+
+### goto
+```c++
+while() {
+    if() goto out;
+    out:;
+}
+
 ```

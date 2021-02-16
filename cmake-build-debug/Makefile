@@ -59,10 +59,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.6682.181/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+CMAKE_COMMAND = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 
 # The command to remove a file.
-RM = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.6682.181/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E rm -f
+RM = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -79,7 +79,7 @@ CMAKE_BINARY_DIR = /Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.6682.181/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -90,7 +90,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.6682.181/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+	"/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.o: Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o
+Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.o: Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.o
 
-.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.o
+.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.o
 
 # target to build an object file
-Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o"
-.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o
+Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.o"
+.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.o
 
-Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.i: Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i
+Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.i: Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.i
 
-.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.i
+.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.i
 
 # target to preprocess a source file
-Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i"
-.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.i
+Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.i"
+.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.i
 
-Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.s: Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s
+Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.s: Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.s
 
-.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.s
+.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.s
 
 # target to generate assembly for a file
-Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s"
-.PHONY : Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.s
+Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.s"
+.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.o"
-	@echo "... Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.i"
-	@echo "... Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.s"
+	@echo "... Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.o"
+	@echo "... Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.i"
+	@echo "... Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.s"
 .PHONY : help
 
 

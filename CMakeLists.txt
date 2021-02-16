@@ -3,4 +3,4 @@ project(Codeforces)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Codeforces "Codeforces Round 700 (Div. 2)/A. Yet Another String Game.cpp")
+add_executable(Codeforces "Codeforces Round 702 (Div. 3)/C. Sum of Cubes.cpp")

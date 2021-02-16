@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 700 (Div. 2)/A. Yet Another String Game.cpp" "/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir/Codeforces_Round_700_(Div._2)/A._Yet_Another_String_Game.cpp.o"
+  "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 702 (Div. 3)/C. Sum of Cubes.cpp" "/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
