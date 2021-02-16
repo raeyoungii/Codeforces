@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.o: Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.o
+Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.o: Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.o
 
-.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.o
+.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.o
 
 # target to build an object file
-Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.o"
-.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.o
+Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.o"
+.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.o
 
-Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.i: Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.i
+Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.i: Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.i
 
-.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.i
+.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.i
 
 # target to preprocess a source file
-Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.i"
-.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.i
+Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.i"
+.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.i
 
-Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.s: Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.s
+Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.s: Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.s
 
-.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.s
+.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.s
 
 # target to generate assembly for a file
-Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.s"
-.PHONY : Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.cpp.s
+Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.s"
+.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.o"
-	@echo "... Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.i"
-	@echo "... Codeforces_Round_702_(Div._3)/C._Sum_of_Cubes.s"
+	@echo "... Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.o"
+	@echo "... Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.i"
+	@echo "... Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.s"
 .PHONY : help
 
 
