@@ -13,7 +13,7 @@ void solve() {
             if (s[i] == '1') v[i] = 1;
             else v[i] = 0;
         }
-        else if ((s[i - 1] - '0') + v[i - 1] == 2){
+        else if ((s[i - 1] - '0') + v[i - 1] == 2) {
             if (s[i] == '1') v[i] = 0;
             else v[i] = 1;
         }
