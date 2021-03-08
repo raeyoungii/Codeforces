@@ -4,6 +4,7 @@
 ll gcd(ll a, ll b) { return b ? gcd(b, a % b) : a; } // 최대공약수
 ll lcm(ll a, ll b) { return a * b / gcd(a, b); } // 최소공배수
 ```
+
 ### 정렬
 ```c++
 sort(a.begin(), a.end(), greater<>()); // 내림차순 정렬
@@ -54,6 +55,19 @@ int min = *min_element(v.begin(), v.end());
 int max = *max_element(v.begin(), v.end());
 ```
 
+### lower_bound, upper_bound
+```c++
+// arr 부터 끝까지 탐색하면서 6 이상의 숫자가 처음으로 나오는 위치의 인덱스 번호를 반환
+// 용도: 찾으려는 key 값보다 같거나 큰 숫자가 배열 몇 번째에서 처음 등장하는지 찾기 위함
+// 사용 조건: 탐색을 진행할 배열 혹은 벡터는 오름차순 정렬되어 있어야 함
+lower_bound(v.begin(), v.end(), 6) - v.begin();
+
+// 처음부터 끝까지 탐색하면서 3을 처음으로 초과하는 숫자가 나오는 위치의 인덱스 번호를 반환
+// 용도: 찾으려는 key 값을 초과하는 숫자가 배열 몇 번째에서 처음 등장하는지 찾기 위함
+// 사용 조건: 탐색을 진행할 배열 혹은 벡터는 오름차순 정렬되어 있어야 함
+upper_bound(v.begin(), v.end(), 3) - v.begin();
+```
+
 ### 나눗셈 올림 (ceil)
 ```c++
 if (n % k == 0) s = n / k;
@@ -100,5 +114,4 @@ while() {
     if() goto out;
     out:;
 }
-
 ```
