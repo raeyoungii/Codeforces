@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.o: Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.o
+Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.o: Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.o
 
-.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.o
+.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.o
 
 # target to build an object file
-Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.o"
-.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.o
+Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.o"
+.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.o
 
-Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.i: Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.i
+Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.i: Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.i
 
-.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.i
+.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.i
 
 # target to preprocess a source file
-Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.i"
-.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.i
+Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.i"
+.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.i
 
-Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.s: Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.s
+Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.s: Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.s
 
-.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.s
+.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.s
 
 # target to generate assembly for a file
-Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.s"
-.PHONY : Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.s
+Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.s"
+.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.o"
-	@echo "... Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.i"
-	@echo "... Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.s"
+	@echo "... Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.o"
+	@echo "... Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.i"
+	@echo "... Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.s"
 .PHONY : help
 
 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 702 (Div. 3)/B. Balanced Remainders.cpp" "/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir/Codeforces_Round_702_(Div._3)/B._Balanced_Remainders.cpp.o"
+  "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 705 (Div. 2)/C. K-beautiful Strings.cpp" "/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir/Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
