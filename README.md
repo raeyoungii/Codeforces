@@ -17,14 +17,14 @@ sort(v.begin(), v.end(), compare); // 사용자 정의 정렬
 ```c++
 int main() {
     int n; cin >> n;
-    vector<int> arr(n);
-    for (int i = 0; i < n; i++) arr[i] = i + 1;
-    sort(arr.begin(), arr.end());
+    vector<int> v(n);
+    for (int i = 0; i < n; i++) v[i] = i + 1;
+    sort(v.begin(), v.end());
     do {
         for (int i = 0; i < n; i++) {
-            cout << arr[i] << " \n" [i == n - 1];
+            cout << v[i] << " \n" [i == n - 1];
         }
-    } while (next_permutation(arr.begin(), arr.end()));
+    } while (next_permutation(v.begin(), v.end()));
     return 0;
 }
 ```
@@ -32,16 +32,16 @@ int main() {
 ```c++
 int main() {
     int n, k; cin >> n >> k;
-    vector<int> arr(n);
+    vector<int> v(n);
     vector<int> chk(n);
-    for (int i = 0; i < n; i++) arr[i] = i + 1;
-    sort(arr.begin(), arr.end());
+    for (int i = 0; i < n; i++) v[i] = i + 1;
+    sort(v.begin(), v.end());
     for (int i = 0; i < k; i++) chk[i] = 0;
     for (int i = k; i < n; i++) chk[i] = 1;
     do {
         for (int i = 0; i < n; i++) {
             if (chk[i] == 1) continue;
-            cout << arr[i] << " ";
+            cout << v[i] << " ";
         }
         cout << "\n";
     } while (next_permutation(chk.begin(), chk.end()));
