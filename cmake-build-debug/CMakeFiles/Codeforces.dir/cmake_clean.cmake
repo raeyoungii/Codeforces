@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Codeforces.dir/Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.o"
+  "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o"
   "Codeforces"
   "Codeforces.pdb"
 )

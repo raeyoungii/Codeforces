@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.o: Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.o
+Codeforces_Round_706_(Div._2)/C._Diamond_Miner.o: Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o
 
-.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.o
+.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.o
 
 # target to build an object file
-Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.o"
-.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.o
+Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o"
+.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o
 
-Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.i: Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.i
+Codeforces_Round_706_(Div._2)/C._Diamond_Miner.i: Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i
 
-.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.i
+.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.i
 
 # target to preprocess a source file
-Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.i"
-.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.i
+Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i"
+.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i
 
-Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.s: Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.s
+Codeforces_Round_706_(Div._2)/C._Diamond_Miner.s: Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s
 
-.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.s
+.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.s
 
 # target to generate assembly for a file
-Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.s"
-.PHONY : Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.cpp.s
+Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s"
+.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.o"
-	@echo "... Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.i"
-	@echo "... Codeforces_Round_705_(Div._2)/C._K-beautiful_Strings.s"
+	@echo "... Codeforces_Round_706_(Div._2)/C._Diamond_Miner.o"
+	@echo "... Codeforces_Round_706_(Div._2)/C._Diamond_Miner.i"
+	@echo "... Codeforces_Round_706_(Div._2)/C._Diamond_Miner.s"
 .PHONY : help
 
 
