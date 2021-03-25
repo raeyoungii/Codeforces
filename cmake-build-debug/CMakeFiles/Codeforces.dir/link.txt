@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o"  -o Codeforces 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  "CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o"  -o Codeforces 

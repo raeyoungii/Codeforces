@@ -59,10 +59,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+CMAKE_COMMAND = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 
 # The command to remove a file.
-RM = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E rm -f
+RM = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -79,7 +79,7 @@ CMAKE_BINARY_DIR = /Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -90,7 +90,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+	"/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Codeforces_Round_706_(Div._2)/C._Diamond_Miner.o: Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o
+Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.o: Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o
 
-.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.o
+.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.o
 
 # target to build an object file
-Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o"
-.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o
+Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o"
+.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o
 
-Codeforces_Round_706_(Div._2)/C._Diamond_Miner.i: Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i
+Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.i: Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i
 
-.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.i
+.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.i
 
 # target to preprocess a source file
-Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i"
-.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i
+Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i"
+.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i
 
-Codeforces_Round_706_(Div._2)/C._Diamond_Miner.s: Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s
+Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.s: Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s
 
-.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.s
+.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.s
 
 # target to generate assembly for a file
-Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s"
-.PHONY : Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s
+Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s"
+.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Codeforces_Round_706_(Div._2)/C._Diamond_Miner.o"
-	@echo "... Codeforces_Round_706_(Div._2)/C._Diamond_Miner.i"
-	@echo "... Codeforces_Round_706_(Div._2)/C._Diamond_Miner.s"
+	@echo "... Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.o"
+	@echo "... Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.i"
+	@echo "... Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.s"
 .PHONY : help
 
 

@@ -54,10 +54,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+CMAKE_COMMAND = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 
 # The command to remove a file.
-RM = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E rm -f
+RM = "/Users/raeyoungkim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -77,27 +77,27 @@ include CMakeFiles/Codeforces.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Codeforces.dir/flags.make
 
-CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o: CMakeFiles/Codeforces.dir/flags.make
-CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o: ../Codeforces\ Round\ 706\ (Div.\ 2)/C.\ Diamond\ Miner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o" -c "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 706 (Div. 2)/C. Diamond Miner.cpp"
+CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o: CMakeFiles/Codeforces.dir/flags.make
+CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o: ../Codeforces\ Round\ 710\ (Div.\ 3)/D.\ Epic\ Transformation_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o" -c "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 710 (Div. 3)/D. Epic Transformation_2.cpp"
 
-CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 706 (Div. 2)/C. Diamond Miner.cpp" > "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.i"
+CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 710 (Div. 3)/D. Epic Transformation_2.cpp" > "CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i"
 
-CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 706 (Div. 2)/C. Diamond Miner.cpp" -o "CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.s"
+CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 710 (Div. 3)/D. Epic Transformation_2.cpp" -o "CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s"
 
 # Object files for target Codeforces
 Codeforces_OBJECTS = \
-"CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o"
+"CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o"
 
 # External object files for target Codeforces
 Codeforces_EXTERNAL_OBJECTS =
 
-Codeforces: CMakeFiles/Codeforces.dir/Codeforces_Round_706_(Div._2)/C._Diamond_Miner.cpp.o
+Codeforces: CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o
 Codeforces: CMakeFiles/Codeforces.dir/build.make
 Codeforces: CMakeFiles/Codeforces.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Codeforces"
