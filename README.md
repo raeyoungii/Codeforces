@@ -51,8 +51,8 @@ int main() {
 
 ### 벡터의 최대, 최소값
 ```c++
-int min = *min_element(v.begin(), v.end());
-int max = *max_element(v.begin(), v.end());
+int mn = *min_element(v.begin(), v.end());
+int mx = *max_element(v.begin(), v.end());
 ```
 
 ### lower_bound, upper_bound
@@ -113,5 +113,14 @@ void eratos(int n) {
 while() {
     if() goto out;
     out:;
+}
+```
+
+### all_of()
+```c++
+int A[21];
+bool chkEmpty() {
+if (all_of(A, A + 21, [](int i){ return i == 0; })) return true;
+return false;
 }
 ```

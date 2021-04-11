@@ -143,32 +143,32 @@ Codeforces/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.o: Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o
+Codeforces_Round_713_(Div._3)/D._Corrupted_Array.o: Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.o
 
-.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.o
+.PHONY : Codeforces_Round_713_(Div._3)/D._Corrupted_Array.o
 
 # target to build an object file
-Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o"
-.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.o
+Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.o"
+.PHONY : Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.o
 
-Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.i: Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i
+Codeforces_Round_713_(Div._3)/D._Corrupted_Array.i: Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.i
 
-.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.i
+.PHONY : Codeforces_Round_713_(Div._3)/D._Corrupted_Array.i
 
 # target to preprocess a source file
-Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i"
-.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.i
+Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.i"
+.PHONY : Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.i
 
-Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.s: Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s
+Codeforces_Round_713_(Div._3)/D._Corrupted_Array.s: Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.s
 
-.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.s
+.PHONY : Codeforces_Round_713_(Div._3)/D._Corrupted_Array.s
 
 # target to generate assembly for a file
-Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s"
-.PHONY : Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.cpp.s
+Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Codeforces.dir/build.make "CMakeFiles/Codeforces.dir/Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.s"
+.PHONY : Codeforces_Round_713_(Div._3)/D._Corrupted_Array.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.o"
-	@echo "... Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.i"
-	@echo "... Codeforces_Round_710_(Div._3)/D._Epic_Transformation_2.s"
+	@echo "... Codeforces_Round_713_(Div._3)/D._Corrupted_Array.o"
+	@echo "... Codeforces_Round_713_(Div._3)/D._Corrupted_Array.i"
+	@echo "... Codeforces_Round_713_(Div._3)/D._Corrupted_Array.s"
 .PHONY : help
 
 
