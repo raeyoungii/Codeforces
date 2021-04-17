@@ -125,7 +125,7 @@ return false;
 }
 ```
 
-### cin A[]
+### cin >> A[]
 
 ```c++
 for (int& x : A) cin >> x;
