@@ -125,8 +125,15 @@ return false;
 }
 ```
 
-### cin >> A[]
+### 2차원 벡터 선언
+```c++
+vector<vector<int> > vv(n,vector<int>(n, 0));
+```
 
+### cin >> vector<int> A(n);
+```c++
+for (int i = 0; i < n; i++) cin >> A[i];
+```
 ```c++
 for (int& x : A) cin >> x;
 ```
