@@ -120,8 +120,8 @@ while() {
 ```c++
 int A[21];
 bool chkEmpty() {
-if (all_of(A, A + 21, [](int i){ return i == 0; })) return true;
-return false;
+    if (all_of(A, A + 21, [](int i){ return i == 0; })) return true;
+    return false;
 }
 ```
 
