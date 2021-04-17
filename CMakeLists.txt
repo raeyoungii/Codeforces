@@ -3,4 +3,4 @@ project(Codeforces)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codeforces "Codeforces Round 713 (Div. 3)/D. Corrupted Array.cpp")
+add_executable(Codeforces "Codeforces Round 715 (Div. 2)/A. Average Height.cpp")

@@ -111,8 +111,8 @@ void eratos(int n) {
 ### goto
 ```c++
 while() {
-    if() goto out;
-    out:;
+    if() goto here;
+    here:;
 }
 ```
 
@@ -123,4 +123,10 @@ bool chkEmpty() {
 if (all_of(A, A + 21, [](int i){ return i == 0; })) return true;
 return false;
 }
+```
+
+### cin A[]
+
+```c++
+for (int& x : A) cin >> x;
 ```

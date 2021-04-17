@@ -9,8 +9,7 @@ int N, K;
 int cache[1001][1001];
 
 int f(int l, int k) {
-    if(l == N) return 1;
-    if(k == 1) return 1;
+    if(l == N || k == 1) return 1;
     int& ret = cache[l][k];
     if(ret != -1) return ret;
     return ret = (f(N - l, k - 1) + f(l + 1, k)) % MOD;
