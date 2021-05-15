@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Codeforces.dir/Codeforces_Round_715_(Div._2)/A._Average_Height.cpp.o"
+  "CMakeFiles/Codeforces.dir/Codeforces_Round_720_(Div._2)/B._Nastia_and_a_Good_Array_2.cpp.o"
   "Codeforces"
   "Codeforces.pdb"
 )

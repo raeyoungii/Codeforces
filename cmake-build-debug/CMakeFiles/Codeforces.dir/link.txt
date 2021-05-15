@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/Codeforces.dir/Codeforces_Round_715_(Div._2)/A._Average_Height.cpp.o" -o Codeforces 
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/Codeforces.dir/Codeforces_Round_720_(Div._2)/B._Nastia_and_a_Good_Array_2.cpp.o" -o Codeforces 

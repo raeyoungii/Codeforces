@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 715 (Div. 2)/A. Average Height.cpp" "/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir/Codeforces_Round_715_(Div._2)/A._Average_Height.cpp.o"
+  "/Users/raeyoungkim/CLionProjects/Codeforces/Codeforces Round 720 (Div. 2)/B. Nastia and a Good Array_2.cpp" "/Users/raeyoungkim/CLionProjects/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir/Codeforces_Round_720_(Div._2)/B._Nastia_and_a_Good_Array_2.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
